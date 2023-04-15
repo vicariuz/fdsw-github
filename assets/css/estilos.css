@@ -37,3 +37,11 @@ body {
   }
 
 }
+/* Footer */
+  footer i.fa-linkedin-in {
+    margin-left: 10px;
+  }
+  
+  p .my-4 {
+    text-align: justify;
+  }
