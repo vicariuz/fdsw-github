@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  text-align: justify;
 }
 
 /* Hero Section */
@@ -44,4 +45,13 @@ body {
   
   p .my-4 {
     text-align: justify;
+  }
+
+  .display-1 fw-bold > span {
+    font-weight: bold;
+    color: black;
+  }
+  
+  #my-5{
+    font-weight: bold;
   }
